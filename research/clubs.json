@@ -2,7 +2,34 @@
   {
     "name": "Cornell Business Analytics",
     "category": "Business & Management",
-    "interests": ["business", "data", "analytics", "consulting"],
+    "interests": [
+      "business",
+      "data",
+      "analytics",
+      "consulting"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "leadership experience"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "competitive",
+      "source_type": "inferred"
+    },
+    "experience_level": {
+      "value": "some-experience",
+      "source_type": "inferred"
+    },
     "description": "Student-run analytics consulting organization delivering data-backed insights to real clients.",
     "recruitment": {
       "application_required": true,
@@ -20,14 +47,46 @@
         "Round Robin"
       ]
     },
-    "career_focus": ["analytics", "consulting", "business"],
+    "career_focus": [
+      "analytics",
+      "consulting",
+      "business"
+    ],
     "source": "https://www.cornellbusinessanalytics.org/recruitment",
     "source_type": "club_reported"
   },
+
   {
     "name": "Forté Campus at Cornell",
     "category": "Business & Management",
-    "interests": ["business", "leadership", "networking", "professional development"],
+    "interests": [
+      "business",
+      "leadership",
+      "networking",
+      "professional development"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "leadership experience",
+      "build skills"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "competitive",
+      "source_type": "inferred"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
     "description": "A pre-professional organization focused on professional development, mentorship, networking, and community.",
     "recruitment": {
       "application_required": true,
@@ -45,14 +104,46 @@
         "Interview"
       ]
     },
-    "career_focus": ["business", "leadership", "professional development"],
+    "career_focus": [
+      "business",
+      "leadership",
+      "professional development"
+    ],
     "source": "https://www.fortecampuscornell.com/recruitment",
     "source_type": "club_reported"
   },
+
   {
     "name": "Cornell FinTech Club",
     "category": "Business & Management",
-    "interests": ["finance", "technology", "investing", "software"],
+    "interests": [
+      "finance",
+      "technology",
+      "investing",
+      "software"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
     "description": "An undergraduate organization focused on fintech through projects, investment and engineering teams, education, discussions, and corporate events.",
     "recruitment": {
       "application_required": true,
@@ -64,14 +155,47 @@
       "application_deadline": null,
       "process": []
     },
-    "career_focus": ["fintech", "finance", "software engineering", "investing"],
+    "career_focus": [
+      "fintech",
+      "finance",
+      "software engineering",
+      "investing"
+    ],
     "source": "https://www.cornellfintechclub.com/",
     "source_type": "club_reported"
   },
+
   {
     "name": "Cornell Data Science",
     "category": "Science & Healthcare",
-    "interests": ["data science", "machine learning", "statistics", "programming"],
+    "interests": [
+      "data science",
+      "machine learning",
+      "statistics",
+      "programming"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "explore an interest",
+      "networking"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "competitive",
+      "source_type": "inferred"
+    },
+    "experience_level": {
+      "value": "some-experience",
+      "source_type": "inferred"
+    },
     "description": "An undergraduate project team building data-driven solutions to real-world problems through data science, machine learning, visualization, and data infrastructure.",
     "recruitment": {
       "application_required": null,
@@ -83,14 +207,56 @@
       "application_deadline": null,
       "process": []
     },
-    "career_focus": ["data science", "machine learning", "software engineering", "quantitative finance"],
+    "career_focus": [
+      "data science",
+      "machine learning",
+      "software engineering",
+      "quantitative finance"
+    ],
     "source": "https://crowdfunding.cornell.edu/project/47966",
     "source_type": "club_reported"
   },
+
   {
     "name": "Cornell AppDev",
     "category": "Software, Coding & Programming",
-    "interests": ["software", "product design", "mobile development", "technology"],
+    "interests": [
+      "software",
+      "product design",
+      "mobile development",
+      "technology"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "explore an interest",
+      "leadership experience"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "competitive",
+      "source_type": "inferred"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "eligibility": {
+      "fall_2026": [
+        "sophomore",
+        "junior",
+        "senior"
+      ],
+      "freshman_eligible": false,
+      "source_type": "club_reported"
+    },
     "description": "A student-run open-source project team that builds applications for the Cornell community.",
     "recruitment": {
       "application_required": true,
@@ -108,14 +274,46 @@
         "Decision"
       ]
     },
-    "career_focus": ["software engineering", "product design", "product management"],
+    "career_focus": [
+      "software engineering",
+      "product design",
+      "product management"
+    ],
     "source": "https://www.cornellappdev.com/apply",
     "source_type": "club_reported"
   },
+
   {
     "name": "Cornell Engineering World Health",
     "category": "Engineering",
-    "interests": ["engineering", "healthcare", "global health", "technology"],
+    "interests": [
+      "engineering",
+      "healthcare",
+      "global health",
+      "technology"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "explore an interest",
+      "make friends"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
     "description": "A multidisciplinary project team that designs, constructs, and implements health solutions for underserved communities.",
     "recruitment": {
       "application_required": true,
@@ -127,14 +325,48 @@
       "application_deadline": null,
       "process": []
     },
-    "career_focus": ["engineering", "healthcare", "global development", "technology"],
+    "career_focus": [
+      "engineering",
+      "healthcare",
+      "global development",
+      "technology"
+    ],
     "source": "https://www.cornellewh.org/",
     "source_type": "club_reported"
   },
+
   {
     "name": "Cornell Society of Women Engineers",
     "category": "Engineering",
-    "interests": ["engineering", "women in STEM", "networking", "professional development"],
+    "interests": [
+      "engineering",
+      "women in STEM",
+      "networking",
+      "professional development"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "leadership experience",
+      "make friends",
+      "build skills"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
     "description": "A student organization providing opportunities for engineering students to connect with peers, faculty, and employers.",
     "recruitment": {
       "application_required": null,
@@ -146,33 +378,46 @@
       "application_deadline": null,
       "process": []
     },
-    "career_focus": ["engineering", "STEM", "professional development"],
+    "career_focus": [
+      "engineering",
+      "STEM",
+      "professional development"
+    ],
     "source": "https://swe.cornell.edu/join.html",
     "source_type": "club_reported"
   },
-  {
-    "name": "Cornell AppDev Courses",
-    "category": "Software, Coding & Programming",
-    "interests": ["programming", "app development", "product design"],
-    "description": "Project-based courses offered by Cornell AppDev to help students build foundations in app development and create portfolio projects.",
-    "recruitment": {
-      "application_required": false,
-      "coffee_chat": false,
-      "interview_required": false,
-      "rounds": null,
-      "info_session": null,
-      "application_open": null,
-      "application_deadline": null,
-      "process": []
-    },
-    "career_focus": ["software engineering", "product design", "mobile development"],
-    "source": "https://www.cornellappdev.com/apply",
-    "source_type": "club_reported"
-  },
+
   {
     "name": "ACSU",
     "category": "Software, Coding & Programming",
-    "interests": ["computer science", "technology", "networking"],
+    "interests": [
+      "computer science",
+      "technology",
+      "networking"
+    ],
+    "goals": [
+      "make friends",
+      "career development",
+      "networking",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "mixed",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "open",
+      "source_type": "club_reported"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
     "description": "Cornell's chapter of the Association for Computing Machinery connecting students interested in computer science and technology with faculty, alumni, and industry professionals.",
     "recruitment": {
       "application_required": false,
@@ -184,14 +429,44 @@
       "application_deadline": null,
       "process": []
     },
-    "career_focus": ["computer science", "technology"],
+    "career_focus": [
+      "computer science",
+      "technology"
+    ],
     "source": "https://bowers.cornell.edu/student-experience/undergraduate-student-organizations",
     "source_type": "cornell_reported"
   },
+
   {
     "name": "Cornell ACM Programming Team",
     "category": "Software, Coding & Programming",
-    "interests": ["programming", "algorithms", "computer science", "competitive programming"],
+    "interests": [
+      "programming",
+      "algorithms",
+      "computer science",
+      "competitive programming"
+    ],
+    "goals": [
+      "build skills",
+      "explore an interest",
+      "career development"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
     "description": "Cornell's team for the ACM International Collegiate Programming Contest, focused on algorithmic problem solving and mathematical programming challenges.",
     "recruitment": {
       "application_required": null,
@@ -203,7 +478,11 @@
       "application_deadline": null,
       "process": []
     },
-    "career_focus": ["software engineering", "algorithms", "computer science"],
+    "career_focus": [
+      "software engineering",
+      "algorithms",
+      "computer science"
+    ],
     "source": "https://bowers.cornell.edu/student-experience/undergraduate-student-organizations",
     "source_type": "cornell_reported"
   }
