@@ -67,8 +67,7 @@ function calculateRecommendationScore(club, preferences) {
     let score = 0;
     const reasons = [];
 
-    // INTERESTS — 40%
-
+// INTERESTS — 40%
 const userInterests = preferences.interests || [];
 const clubInterests = club.interests || [];
 
@@ -89,29 +88,26 @@ const interestMap = {
     "Environment & Sustainability": ["environment", "sustainability"]
 };
 
-const matchingInterests = userInterests.filter(userInterest => {
-    const possibleMatches = interestMap[userInterest] || [userInterest];
+if (userInterests.length > 0 && clubInterests.length > 0) {
+    const matchingInterests = userInterests.filter(userInterest => {
+        const possibleMatches = interestMap[userInterest] || [userInterest];
 
-    return possibleMatches.some(possibleMatch =>
-        clubInterests.some(
-            clubInterest =>
-                clubInterest.toLowerCase() === possibleMatch.toLowerCase()
-        )
-    );
-});
+        return possibleMatches.some(possibleMatch =>
+    clubInterests.some(
+        clubInterest =>
+            clubInterest.trim().toLowerCase() === possibleMatch.trim().toLowerCase()
+    )
+); 
+    });
 
-    if (userInterests.length > 0) {
-        const interestScore =
-            matchingInterests.length / userInterests.length;
+    score += (matchingInterests.length / userInterests.length) * 40;
 
-        score += interestScore * 40;
-
-        if (matchingInterests.length > 0) {
-            reasons.push(
-                `Matches your interests in ${matchingInterests.join(", ")}`
-            );
-        }
+    if (matchingInterests.length > 0) {
+        reasons.push(
+            `Matches your interests in ${matchingInterests.join(", ")}`
+        );
     }
+}
 
 const userGoals = preferences.goals || [];
 const clubGoals = club.goals || [];
@@ -123,12 +119,12 @@ const goalMap = {
     "Build professional skills": ["build skills"],
     "Leadership opportunities": ["leadership experience"],
     "Make friends": ["make friends"],
-    "Find a community": ["make friends"],
-    "Affinity": [],
-    "Have fun": [],
+    "Find a community": ["find a community"],
+    "Affinity": ["affinity"],
+    "Have fun": ["have fun"],
     "Explore a new interest": ["explore an interest"],
-    "Get outside": [],
-    "Gain confidence": []
+    "Get outside": ["get outside"],
+    "Gain confidence": ["gain confidence"]
 };
 
 const matchingGoals = userGoals.filter(userGoal => {
@@ -142,18 +138,18 @@ const matchingGoals = userGoals.filter(userGoal => {
     );
 });
 
-    if (userGoals.length > 0) {
-        const goalScore =
-            matchingGoals.length / userGoals.length;
+if (userGoals.length > 0 && clubGoals.length > 0) {
+    const goalScore =
+        matchingGoals.length / userGoals.length;
 
-        score += goalScore * 20;
+    score += goalScore * 20;
 
-        if (matchingGoals.length > 0) {
-            reasons.push(
-                `Supports your goal of ${matchingGoals.join(", ")}`
-            );
-        }
+    if (matchingGoals.length > 0) {
+        reasons.push(
+            `Supports your goal of ${matchingGoals.join(", ")}`
+        );
     }
+}
 
     // CLUB TYPE — 10%
     if (preferences.club_type) {
@@ -240,7 +236,9 @@ function recommendClubs(preferences, limit = 5) {
         return {
             name: club.name,
             category: club.category,
+            club_format: club.club_format?.value || null,
             description: club.description,
+            instagram: club.instagram || null,
             score: result.score,
             reasons: result.reasons
         };

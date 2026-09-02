@@ -1,6 +1,23 @@
 import { useState } from "react";
+
 import "./App.css";
 
+const InstagramIcon = () => (
+  <svg
+    width="15"
+    height="15"
+    viewBox="0 0 24 24"
+    fill="none"
+    stroke="currentColor"
+    strokeWidth="2"
+    strokeLinecap="round"
+    strokeLinejoin="round"
+  >
+    <rect x="3" y="3" width="18" height="18" rx="5" />
+    <circle cx="12" cy="12" r="4" />
+    <circle cx="17.5" cy="6.5" r="0.5" fill="currentColor" />
+  </svg>
+);
 function App() {
   const [quizStarted, setQuizStarted] = useState(false);
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -74,7 +91,6 @@ function App() {
         "Service / Volunteer",
         "Sports / Recreation",
         "Arts / Creative",
-        "Technical / STEM",
         "No preference",
       ],
     },
@@ -394,36 +410,41 @@ function App() {
               </p>
 
               <div className="recommendation-list">
-                {recommendations.map((club, index) => (
-                  <div className="recommendation-card" key={club.name}>
-                    <div className="match-number">
-                      {String(index + 1).padStart(2, "0")}
-                    </div>
+               {recommendations.map((club, index) => (
+  <div className="recommendation-card" key={club.name}>
+    <div className="match-number">
+      {index + 1}
+    </div>
 
-                    <div className="recommendation-info">
-                      <h3>{club.name}</h3>
+    <div className="recommendation-info">
+      <h3>{club.name}</h3>
 
-                      <p className="club-category">
-                        {club.category}
-                      </p>
+      <p className="club-category">
+        {club.category}
+        {club.club_format === "project_team" && " · Project Team"}
+      </p>
 
-                      <p>{club.description}</p>
+      <p>{club.description}</p>
 
-                      {club.reasons.length > 0 && (
-                        <ul>
-                          {club.reasons.map((reason) => (
-                            <li key={reason}>{reason}</li>
-                          ))}
-                        </ul>
-                      )}
-                    </div>
+      {club.instagram && (
+        <a
+  className="club-instagram"
+  href={`https://instagram.com/${club.instagram.replace("@", "")}`}
+  target="_blank"
+  rel="noreferrer"
+>
+  <InstagramIcon />
+  @{club.instagram.replace("@", "")}
+</a>
+      )}
+    </div>
 
-                    <div className="match-score">
-                      {club.score}%
-                      <span>match</span>
-                    </div>
-                  </div>
-                ))}
+    <div className="match-score">
+      {club.score}%
+      <span>match</span>
+    </div>
+  </div>
+))}
               </div>
 
               <button className="secondary-button" onClick={restartQuiz}>

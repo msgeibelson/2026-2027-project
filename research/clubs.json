@@ -53,9 +53,9 @@
       "business"
     ],
     "source": "https://www.cornellbusinessanalytics.org/recruitment",
-    "source_type": "club_reported"
+    "source_type": "club_reported",
+    "instagram": "cornellbusinessanalytics"
   },
-
   {
     "name": "Forté Campus at Cornell",
     "category": "Business & Management",
@@ -110,9 +110,9 @@
       "professional development"
     ],
     "source": "https://www.fortecampuscornell.com/recruitment",
-    "source_type": "club_reported"
+    "source_type": "club_reported",
+    "instagram": "fortecornell"
   },
-
   {
     "name": "Cornell FinTech Club",
     "category": "Business & Management",
@@ -162,9 +162,9 @@
       "investing"
     ],
     "source": "https://www.cornellfintechclub.com/",
-    "source_type": "club_reported"
+    "source_type": "club_reported",
+    "instagram": "cornellfintechclub"
   },
-
   {
     "name": "Cornell Data Science",
     "category": "Science & Healthcare",
@@ -185,9 +185,9 @@
       "source_type": "club_reported"
     },
     "club_format": {
-    "value": "project_team",
-    "source_type": "club_reported"
-},
+      "value": "project_team",
+      "source_type": "club_reported"
+    },
     "time_commitment": {
       "value": null,
       "source_type": "unknown"
@@ -218,9 +218,9 @@
       "quantitative finance"
     ],
     "source": "https://crowdfunding.cornell.edu/project/47966",
-    "source_type": "club_reported"
+    "source_type": "club_reported",
+    "instagram": "cornelldatascience"
   },
-
   {
     "name": "Cornell AppDev",
     "category": "Software, Coding & Programming",
@@ -237,14 +237,14 @@
       "leadership experience"
     ],
     "club_type": {
-    "value": "professional",
-    "source_type": "club_reported"
-},
-"club_format": {
-    "value": "project_team",
-    "source_type": "club_reported"
-},
-"time_commitment": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "club_format": {
+      "value": "project_team",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
       "value": null,
       "source_type": "unknown"
     },
@@ -288,9 +288,9 @@
       "product management"
     ],
     "source": "https://www.cornellappdev.com/apply",
-    "source_type": "club_reported"
+    "source_type": "club_reported",
+    "instagram": "cornellappdev"
   },
-
   {
     "name": "Cornell Engineering World Health",
     "category": "Engineering",
@@ -311,9 +311,9 @@
       "source_type": "club_reported"
     },
     "club_format": {
-    "value": "project_team",
-    "source_type": "club_reported"
-},
+      "value": "project_team",
+      "source_type": "club_reported"
+    },
     "time_commitment": {
       "value": null,
       "source_type": "unknown"
@@ -344,9 +344,9 @@
       "technology"
     ],
     "source": "https://www.cornellewh.org/",
-    "source_type": "club_reported"
+    "source_type": "club_reported",
+    "instagram": "cornell_ewh"
   },
-
   {
     "name": "Cornell Society of Women Engineers",
     "category": "Engineering",
@@ -396,9 +396,9 @@
       "professional development"
     ],
     "source": "https://swe.cornell.edu/join.html",
-    "source_type": "club_reported"
+    "source_type": "club_reported",
+    "instagram": "swecornell"
   },
-
   {
     "name": "ACSU",
     "category": "Software, Coding & Programming",
@@ -446,9 +446,9 @@
       "technology"
     ],
     "source": "https://bowers.cornell.edu/student-experience/undergraduate-student-organizations",
-    "source_type": "cornell_reported"
+    "source_type": "cornell_reported",
+    "instagram": null
   },
-
   {
     "name": "Cornell ACM Programming Team",
     "category": "Software, Coding & Programming",
@@ -496,6 +496,5539 @@
       "computer science"
     ],
     "source": "https://bowers.cornell.edu/student-experience/undergraduate-student-organizations",
-    "source_type": "cornell_reported"
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "180 Degrees Consulting at Cornell University",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "consulting",
+      "social impact"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "make friends",
+      "networking"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student consulting organization providing services to socially conscious businesses and nonprofits through hands-on consulting work.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/180dccornell/home/",
+    "source_type": "club_reported",
+    "instagram": "cornell180dc"
+  },
+  {
+    "name": "Startup Consulting at Cornell",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "consulting",
+      "entrepreneurship"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student consulting organization advising startups through semester-long projects and professional development.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/startupcc/home/",
+    "source_type": "club_reported",
+    "instagram": "startupccornell"
+  },
+  {
+    "name": "Design Consulting at Cornell",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "product design",
+      "technology",
+      "design"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "explore an interest",
+      "networking"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "Student organization providing industry-level design and product work through partnerships with client companies and organizations.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/dcc/home/",
+    "source_type": "club_reported",
+    "instagram": "designconsultingcornell"
+  },
+  {
+    "name": "Cornell Economics Society",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "economics",
+      "finance"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Investments Club",
+    "category": "Business & Management",
+    "interests": [
+      "finance",
+      "investing",
+      "business"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Organization providing generalist investment education covering investment strategies, financial principles, and financial markets.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/cic/home/",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Mutual Investment Club of Cornell",
+    "category": "Business & Management",
+    "interests": [
+      "finance",
+      "investing"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "micc_cornell"
+  },
+  {
+    "name": "Impact Investing at Cornell",
+    "category": "Business & Management",
+    "interests": [
+      "finance",
+      "investing",
+      "social impact"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "cornelliic"
+  },
+  {
+    "name": "Women in Computing at Cornell",
+    "category": "Software, Coding & Programming",
+    "interests": [
+      "computer science",
+      "technology",
+      "programming"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "make friends",
+      "networking",
+      "leadership experience"
+    ],
+    "club_type": {
+      "value": "mixed",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "Community focused on making computing inclusive while providing opportunities for technical, career, and leadership growth.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/wicc/home/",
+    "source_type": "club_reported",
+    "instagram": "wiccornell"
+  },
+  {
+    "name": "AguaClara",
+    "category": "Engineering",
+    "interests": [
+      "engineering",
+      "sustainability",
+      "environment",
+      "technology",
+      "global health"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "explore an interest",
+      "make friends"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "club_format": {
+      "value": "project_team",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "Student-led program developing and implementing sustainable, gravity-powered water treatment technologies for communities around the world.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup?club_url=TNT&group_type=11051519",
+    "source_type": "club_reported",
+    "instagram": "cuaguaclara"
+  },
+  {
+    "name": "Sustainable Design at Cornell University",
+    "category": "Engineering",
+    "interests": [
+      "engineering",
+      "sustainability",
+      "environment",
+      "design"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "explore an interest",
+      "make friends"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "club_format": {
+      "value": "project_team",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Interdisciplinary organization using design-build projects to create sustainable solutions and provide practical project experience.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup?category_tags=15143861&group_type=11051519",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Engineers Without Borders at Cornell",
+    "category": "Engineering",
+    "interests": [
+      "engineering",
+      "community",
+      "service",
+      "global health"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Product Management",
+    "category": "Business & Management",
+    "interests": [
+      "technology",
+      "product design",
+      "business",
+      "entrepreneurship"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Robotics",
+    "category": "Engineering",
+    "interests": [
+      "engineering",
+      "robotics",
+      "technology",
+      "programming"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "club_format": {
+      "value": "project_team",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Fashion Collective",
+    "category": "Arts & Creative",
+    "interests": [
+      "fashion",
+      "arts",
+      "design",
+      "business"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "explore an interest",
+      "leadership experience"
+    ],
+    "club_type": {
+      "value": "mixed",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student-run organization providing an outlet for creativity in fashion and fashion management, including a professional runway show.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup?category_tags=15143861&group_type=11051519",
+    "source_type": "club_reported",
+    "instagram": "cornellfashioncollective"
+  },
+  {
+    "name": "Cornell University Dance Team",
+    "category": "Arts & Creative",
+    "interests": [
+      "arts",
+      "dance",
+      "sports"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "cornelldanceteam"
+  },
+  {
+    "name": "DanceSport at Cornell",
+    "category": "Arts & Creative",
+    "interests": [
+      "arts",
+      "dance",
+      "sports"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Media Guild",
+    "category": "Arts & Creative",
+    "interests": [
+      "arts",
+      "media",
+      "design"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "cornellmediaguild"
+  },
+  {
+    "name": "Phi Delta Epsilon International Medical Fraternity",
+    "category": "Science & Healthcare",
+    "interests": [
+      "healthcare",
+      "science",
+      "community",
+      "service"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "leadership experience",
+      "make friends",
+      "build skills"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Medical fraternity focused on fellowship, service, mentoring, and leadership, science, and ethics education.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/PhiDE/",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "American Society for Biochemistry and Molecular Biology Cornell Chapter",
+    "category": "Science & Healthcare",
+    "interests": [
+      "healthcare",
+      "science",
+      "biology"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "American Red Cross at Cornell",
+    "category": "Science & Healthcare",
+    "interests": [
+      "healthcare",
+      "community",
+      "service"
+    ],
+    "goals": [
+      "make friends",
+      "build skills",
+      "leadership experience",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Minds Matter",
+    "category": "Community & Service",
+    "interests": [
+      "community",
+      "healthcare"
+    ],
+    "goals": [
+      "make friends",
+      "find a community",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "cornellmindsmatter"
+  },
+  {
+    "name": "Women's Higher Education Now",
+    "category": "Community & Service",
+    "interests": [
+      "community",
+      "service",
+      "environment",
+      "education"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "leadership experience",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "mixed",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student organization exploring gender equality, sustainable development, and equitable education on the global stage.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup?category_tags=15143873&group_type=&view=all",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Habitat for Humanity Cornell Chapter",
+    "category": "Community & Service",
+    "interests": [
+      "community",
+      "service",
+      "housing",
+      "social impact"
+    ],
+    "goals": [
+      "make friends",
+      "build skills",
+      "leadership experience",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "service",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "Campus chapter connecting students with local building opportunities, advocacy, fundraising, and affordable-homeownership work.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/habitat/home/",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "American Cancer Society at Cornell",
+    "category": "Community & Service",
+    "interests": [
+      "healthcare",
+      "community",
+      "service"
+    ],
+    "goals": [
+      "make friends",
+      "leadership experience",
+      "explore an interest",
+      "build skills"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Anabel's Collaboration and Education",
+    "category": "Community & Service",
+    "interests": [
+      "community",
+      "service",
+      "food"
+    ],
+    "goals": [
+      "make friends",
+      "leadership experience",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "service",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Outing Club at Cornell",
+    "category": "Sports & Recreation",
+    "interests": [
+      "sports",
+      "recreation",
+      "outdoors",
+      "environment"
+    ],
+    "goals": [
+      "get outside",
+      "make friends",
+      "explore an interest",
+      "have fun"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "Cornell organization helping students get outside, learn outdoor activities and skills, and connect with others interested in outdoor adventure.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/coc/home/",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Outdoor Odyssey",
+    "category": "Sports & Recreation",
+    "interests": [
+      "sports",
+      "recreation",
+      "outdoors",
+      "environment"
+    ],
+    "goals": [
+      "get outside",
+      "make friends",
+      "explore an interest",
+      "gain confidence"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "Outdoor pre-orientation program offering trips and experiences for incoming students and welcoming participants across levels of outdoor experience.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup?category_tags=15143873&group_type=&view=all",
+    "source_type": "club_reported",
+    "instagram": "cornell_outdoor_odyssey"
+  },
+  {
+    "name": "Cornell Real Estate Club",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "finance",
+      "real estate",
+      "entrepreneurship"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Real estate organization providing educational, professional, and networking opportunities across business, hospitality, law, architecture, planning, policy, and sustainability.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/crec/home/",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Real Estate Development and Investment Trust at Cornell",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "finance",
+      "real estate",
+      "investing"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Hotel Ezra Cornell",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "hospitality",
+      "marketing",
+      "entrepreneurship"
+    ],
+    "goals": [
+      "career development",
+      "leadership experience",
+      "networking",
+      "build skills"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student-run business conference organized by Hotel School students, combining educational seminars, hospitality events, and student leadership.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/hec/home/",
+    "source_type": "club_reported",
+    "instagram": "hotelezracornell"
+  },
+  {
+    "name": "Accentia Magazine",
+    "category": "Arts & Creative",
+    "interests": [
+      "arts",
+      "culture",
+      "writing",
+      "media"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A multilingual creative collective centered on poetry, prose, and creative writing in non-English languages, with events and publications focused on AAPI topics.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Lunatic Magazine at Cornell",
+    "category": "Arts & Creative",
+    "interests": [
+      "arts",
+      "writing",
+      "media",
+      "humor"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student humor magazine producing stories, articles, comics, and art while fostering a creative community.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Rainy Day",
+    "category": "Arts & Creative",
+    "interests": [
+      "arts",
+      "writing",
+      "literature",
+      "media"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A literary magazine publishing student literary works and bringing editors together to critique and develop creative writing.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Mariachi Regional en Cornell University",
+    "category": "Arts & Creative",
+    "interests": [
+      "music",
+      "arts",
+      "culture",
+      "performance"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization dedicated to traditional Mariachi music and sharing the art form with the Cornell community.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "SALSA PALANTE!",
+    "category": "Arts & Creative",
+    "interests": [
+      "dance",
+      "arts",
+      "culture",
+      "music"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "open",
+      "source_type": "club_reported"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "An inclusive dance community dedicated to Salsa instruction, choreography, and performance.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/salsapalante/home/",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Scholars in Our Society and Africa",
+    "category": "Community & Service",
+    "interests": [
+      "community",
+      "service",
+      "education",
+      "culture"
+    ],
+    "goals": [
+      "make friends",
+      "leadership experience",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "service",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A community-focused organization using mentorship, education programs, book donations, and projects to support communities in Africa.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Asha Cornell",
+    "category": "Community & Service",
+    "interests": [
+      "community",
+      "service",
+      "education",
+      "culture"
+    ],
+    "goals": [
+      "make friends",
+      "leadership experience",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "service",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization raising awareness about education and supporting socioeconomic change in India through fundraising and cultural programming.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Armenian Student Organization",
+    "category": "Cultural & Identity",
+    "interests": [
+      "culture",
+      "community",
+      "language",
+      "arts"
+    ],
+    "goals": [
+      "make friends",
+      "find a community",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A community organization centered on Armenian heritage, culture, language, educational events, and social activities.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Asociación de Sudamericanos Unidos",
+    "category": "Cultural & Identity",
+    "interests": [
+      "culture",
+      "community",
+      "international",
+      "arts"
+    ],
+    "goals": [
+      "make friends",
+      "find a community",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A community organization promoting South American visibility and creating an inclusive community through cultural activities.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "LOKO",
+    "category": "Arts & Creative",
+    "interests": [
+      "dance",
+      "music",
+      "culture",
+      "performance"
+    ],
+    "goals": [
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization promoting Korean music, fine arts, and culture through dance performances.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "loko_cornell"
+  },
+  {
+    "name": "International Affairs Society at Cornell",
+    "category": "International & Cultural",
+    "interests": [
+      "international",
+      "politics",
+      "public speaking",
+      "diplomacy"
+    ],
+    "goals": [
+      "build skills",
+      "leadership experience",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Cornell's international relations organization and official Model United Nations team focused on international affairs, public speaking, leadership, rhetoric, and diplomacy.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "international affairs",
+      "politics",
+      "public policy"
+    ],
+    "source": "https://cornell.campusgroups.com/CIAS/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "International Students Association",
+    "category": "International & Cultural",
+    "interests": [
+      "international",
+      "culture",
+      "community",
+      "global affairs"
+    ],
+    "goals": [
+      "make friends",
+      "find a community",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A community for students from diverse backgrounds focused on dialogue, cultural awareness, world events, and international student advocacy.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "international affairs"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "isa.cornell"
+  },
+  {
+    "name": "Language Expansion Program",
+    "category": "International & Cultural",
+    "interests": [
+      "languages",
+      "culture",
+      "international",
+      "community"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "find a community",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "A peer-led language community offering Language Corners where students practice languages and exchange cultural knowledge.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "languages",
+      "translation"
+    ],
+    "source": "https://cornell.campusgroups.com/LEP/club_signup",
+    "source_type": "club_reported",
+    "instagram": "cornell_lep"
+  },
+  {
+    "name": "Caribbean Students' Association",
+    "category": "Cultural & Identity",
+    "interests": [
+      "culture",
+      "community",
+      "international",
+      "music"
+    ],
+    "goals": [
+      "make friends",
+      "find a community",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization celebrating Caribbean cultures and creating community through cultural and social programming.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Albanian Student Association at Cornell",
+    "category": "Cultural & Identity",
+    "interests": [
+      "culture",
+      "community",
+      "international",
+      "history"
+    ],
+    "goals": [
+      "make friends",
+      "find a community",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A community organization centered on Albanian history, culture, politics, social events, and connection.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "La Asociación Latina",
+    "category": "Cultural & Identity",
+    "interests": [
+      "culture",
+      "community",
+      "politics",
+      "education"
+    ],
+    "goals": [
+      "make friends",
+      "find a community",
+      "leadership experience",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A Latinx student organization providing a forum for social, cultural, political, and educational concerns within the Cornell community.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "community",
+      "advocacy"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "lal.cornell"
+  },
+  {
+    "name": "Dungeons and Dragons at Cornell",
+    "category": "Gaming & Recreation",
+    "interests": [
+      "gaming",
+      "tabletop",
+      "storytelling",
+      "community"
+    ],
+    "goals": [
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "open",
+      "source_type": "club_reported"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "A tabletop gaming community where students can play Dungeons & Dragons, meet new people, make friends, and learn the game.",
+    "recruitment": {
+      "application_required": false,
+      "coffee_chat": false,
+      "interview_required": false,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Gaming at Cornell",
+    "category": "Gaming & Recreation",
+    "interests": [
+      "gaming",
+      "esports",
+      "game design",
+      "board games"
+    ],
+    "goals": [
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "open",
+      "source_type": "club_reported"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "A broad gaming organization covering game design, esports, casual video games, board games, and other forms of gaming.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "game design"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "gamingatcornell"
+  },
+  {
+    "name": "Cornell Undergraduate Animal Behavior Club",
+    "category": "Science & Healthcare",
+    "interests": [
+      "animals",
+      "biology",
+      "science",
+      "environment"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A community for students interested in how animals think, communicate, and behave, connecting biological and ecological ideas with real-world science.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "animal behavior",
+      "biology"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Animal Advocacy at Cornell",
+    "category": "Community & Service",
+    "interests": [
+      "animals",
+      "environment",
+      "advocacy",
+      "sustainability"
+    ],
+    "goals": [
+      "make friends",
+      "build skills",
+      "leadership experience",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "service",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "An advocacy organization focused on reducing animal suffering through education, outreach, campaigning, and plant-based initiatives.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "advocacy",
+      "animal welfare"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Dressage Club at Cornell",
+    "category": "Sports & Recreation",
+    "interests": [
+      "horses",
+      "animals",
+      "sports",
+      "equestrian"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "sports",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "An organization providing educational and competitive opportunities around the sport and tradition of dressage.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Applied Public Policy Strategies at Cornell",
+    "category": "Politics & Public Policy",
+    "interests": [
+      "politics",
+      "public policy",
+      "business",
+      "debate"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization connecting public policy, business, advocacy, and political discussion.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "public policy",
+      "government"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "appsatcornell"
+  },
+  {
+    "name": "Art Beyond Cornell",
+    "category": "Arts & Creative",
+    "interests": [
+      "arts",
+      "design",
+      "culture",
+      "creative"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A creative organization connecting students through art and creative expression.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "arts",
+      "design"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "ALANA Intercultural Programming Board",
+    "category": "Cultural & Identity",
+    "interests": [
+      "culture",
+      "community",
+      "diversity",
+      "events"
+    ],
+    "goals": [
+      "make friends",
+      "leadership experience",
+      "find a community",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A programming organization supporting diverse and intercultural events and helping student organizations create community programming.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "events",
+      "community"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "alanaintercultural"
+  },
+  {
+    "name": "International Planning Student Organization",
+    "category": "International & Cultural",
+    "interests": [
+      "international",
+      "planning",
+      "community",
+      "global affairs"
+    ],
+    "goals": [
+      "make friends",
+      "networking",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization connected to international planning and global perspectives.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "planning",
+      "international"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "International Business Association at Cornell",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "international",
+      "networking",
+      "culture"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization focused on business and international perspectives.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "international business"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "CEMS Club USA",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "international",
+      "networking",
+      "culture"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A CEMS-affiliated organization connecting students interested in international business and global experiences.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "international business"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "cemsclubusa"
+  },
+  {
+    "name": "Dairy Science Club at Cornell University",
+    "category": "Agriculture & Animals",
+    "interests": [
+      "animals",
+      "agriculture",
+      "food",
+      "science"
+    ],
+    "goals": [
+      "make friends",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization connected to dairy science, agriculture, animals, and related academic interests.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "agriculture",
+      "animal science"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Art and Business Club at Cornell",
+    "category": "Arts & Creative",
+    "interests": [
+      "arts",
+      "business",
+      "design",
+      "marketing"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A creative organization exploring the intersection of art, professional identity, storytelling, and business.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "art",
+      "business",
+      "marketing"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Access Johnson",
+    "category": "Community & Service",
+    "interests": [
+      "accessibility",
+      "community",
+      "advocacy",
+      "education"
+    ],
+    "goals": [
+      "make friends",
+      "find a community",
+      "leadership experience",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "service",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "An organization focused on accessibility, accommodations, and advocacy.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "advocacy",
+      "accessibility"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "ACE: The Ace/Asexual Support Group at Cornell",
+    "category": "Community & Service",
+    "interests": [
+      "community",
+      "identity",
+      "social",
+      "advocacy"
+    ],
+    "goals": [
+      "make friends",
+      "find a community",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "open",
+      "source_type": "club_reported"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "A Cornell community and support organization centered on ace and asexual identities and connection.",
+    "recruitment": {
+      "application_required": false,
+      "coffee_chat": false,
+      "interview_required": false,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Generative AI at Cornell",
+    "category": "Technology & Coding",
+    "interests": [
+      "technology",
+      "artificial intelligence",
+      "machine learning",
+      "programming"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "technical",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization focused on generative artificial intelligence and related technology.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "artificial intelligence",
+      "technology"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell AI Initiative",
+    "category": "Technology & Coding",
+    "interests": [
+      "technology",
+      "artificial intelligence",
+      "machine learning",
+      "data"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "technical",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization exploring artificial intelligence and its applications.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "artificial intelligence",
+      "machine learning"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Blockchain",
+    "category": "Technology & Coding",
+    "interests": [
+      "technology",
+      "blockchain",
+      "finance",
+      "programming"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "technical",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization exploring blockchain technology and its applications.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "blockchain",
+      "technology"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "cornellblockchain"
+  },
+  {
+    "name": "Cornell Philosophy Club",
+    "category": "Academic & Educational",
+    "interests": [
+      "philosophy",
+      "ethics",
+      "discussion",
+      "humanities"
+    ],
+    "goals": [
+      "make friends",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "open",
+      "source_type": "club_reported"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "A discussion-oriented community for students interested in philosophy, ethics, and big questions.",
+    "recruitment": {
+      "application_required": false,
+      "coffee_chat": false,
+      "interview_required": false,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Debate Society",
+    "category": "Politics & Public Policy",
+    "interests": [
+      "debate",
+      "public speaking",
+      "politics",
+      "rhetoric"
+    ],
+    "goals": [
+      "build skills",
+      "gain confidence",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization centered on debate, argumentation, public speaking, and rhetoric.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "debate",
+      "public speaking"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Undergraduate Law Society",
+    "category": "Academic & Educational",
+    "interests": [
+      "law",
+      "politics",
+      "career",
+      "public policy"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student organization for Cornell students interested in law and legal careers.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "law"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Food Science Club",
+    "category": "Food & Agriculture",
+    "interests": [
+      "food",
+      "science",
+      "agriculture",
+      "healthcare"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "career development",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "open",
+      "source_type": "club_reported"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "A student community for people interested in food science and the science behind food and food systems.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "food science"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": "cornellfoodscienceclub"
+  },
+  {
+    "name": "Cornell Film Club",
+    "category": "Arts & Creative",
+    "interests": [
+      "film",
+      "movies",
+      "arts",
+      "media"
+    ],
+    "goals": [
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "open",
+      "source_type": "club_reported"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "A student community for people interested in watching, discussing, and exploring film.",
+    "recruitment": {
+      "application_required": false,
+      "coffee_chat": false,
+      "interview_required": false,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "film",
+      "media"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Photography Club",
+    "category": "Arts & Creative",
+    "interests": [
+      "photography",
+      "arts",
+      "design",
+      "media"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": "open",
+      "source_type": "club_reported"
+    },
+    "experience_level": {
+      "value": "beginner-friendly",
+      "source_type": "club_reported"
+    },
+    "description": "A student community for photography, visual creativity, and developing photography skills.",
+    "recruitment": {
+      "application_required": false,
+      "coffee_chat": false,
+      "interview_required": false,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "photography",
+      "visual arts"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Orchestra",
+    "category": "Music & Performance",
+    "interests": [
+      "music",
+      "performance",
+      "arts"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "club_reported"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student music organization centered on orchestral performance.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [
+      "music"
+    ],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "club_reported",
+    "instagram": null
+  },
+  {
+    "name": "A Seat at the Table",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "social impact",
+      "leadership",
+      "community"
+    ],
+    "goals": [
+      "build skills",
+      "networking",
+      "leadership experience",
+      "find a community"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A business-focused organization creating space for discussion, education, and professional development around business ethics, human resources, and social issues.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Business Club for Emerging Economies at Cornell",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "international",
+      "entrepreneurship",
+      "community"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "find a community",
+      "build skills"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A community supporting students interested in emerging economies through professional and personal development.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Business Review Club at Cornell",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "media",
+      "writing",
+      "leadership"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A student publication and discussion community focused on business insights, practices, and ethical leadership.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Consulting Group at Cornell",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "consulting",
+      "strategy",
+      "analytics"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "leadership experience"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student consulting organization providing strategic consulting services to businesses, educational institutions, and nonprofits through semester-long projects.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Consulting Club",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "consulting",
+      "strategy"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student organization helping Cornell students explore consulting through professional development, resources, and community.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Data Strategy Club",
+    "category": "Business & Management",
+    "interests": [
+      "data",
+      "business",
+      "consulting",
+      "finance",
+      "technology"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Organization focused on combining data science with business consulting and finance.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Latinos in Business Club",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "community",
+      "international",
+      "networking"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "find a community",
+      "build skills"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Community and professional-development organization for students interested in Latino communities, Latin America, and business careers.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Marketing Club",
+    "category": "Business & Management",
+    "interests": [
+      "marketing",
+      "business",
+      "strategy",
+      "media"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Organization helping students explore marketing and strategy across different areas of business.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Mergers & Acquisitions Club",
+    "category": "Business & Management",
+    "interests": [
+      "finance",
+      "business",
+      "law",
+      "investing"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Organization focused on the legal and financial concepts behind mergers and acquisitions.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Strategy Solutions Club",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "consulting",
+      "strategy"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "networking",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Consulting-focused organization making strategy and consulting resources accessible to Cornell students.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Technical Analysis Club",
+    "category": "Business & Management",
+    "interests": [
+      "finance",
+      "investing",
+      "data",
+      "markets"
+    ],
+    "goals": [
+      "build skills",
+      "career development",
+      "explore an interest",
+      "networking"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Organization focused on financial literacy, technical market analysis, chart patterns, and derivative strategies.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Social Business Consulting",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "consulting",
+      "social impact"
+    ],
+    "goals": [
+      "career development",
+      "build skills",
+      "leadership experience",
+      "networking"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student consultancy providing pro-bono consulting for social entrepreneurs while building practical business and leadership skills.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Society for Women in Business",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "leadership",
+      "networking",
+      "community"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "leadership experience",
+      "find a community"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Organization connecting students with peers and professional leaders while supporting women's professional development.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Air and Sea Hospitality",
+    "category": "Business & Management",
+    "interests": [
+      "business",
+      "hospitality",
+      "travel",
+      "networking"
+    ],
+    "goals": [
+      "career development",
+      "networking",
+      "explore an interest",
+      "build skills"
+    ],
+    "club_type": {
+      "value": "professional",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Organization exploring airline and cruise industries and the career opportunities within them.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Cornell Undergraduate Research Board",
+    "category": "Academic & Educational",
+    "interests": [
+      "research",
+      "academics",
+      "science",
+      "education"
+    ],
+    "goals": [
+      "build skills",
+      "explore an interest",
+      "networking",
+      "career development"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Organization connecting undergraduates with research opportunities, faculty, and the broader research community.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Birding Club at Cornell",
+    "category": "Agriculture & Animals",
+    "interests": [
+      "animals",
+      "birds",
+      "outdoors",
+      "environment"
+    ],
+    "goals": [
+      "get outside",
+      "make friends",
+      "explore an interest",
+      "find a community"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Open community for students interested in birds, the Cornell Lab of Ornithology, and bird-related activities.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Beekeeping Club at Cornell",
+    "category": "Agriculture & Animals",
+    "interests": [
+      "animals",
+      "environment",
+      "agriculture",
+      "outdoors"
+    ],
+    "goals": [
+      "build skills",
+      "get outside",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Hands-on club where students learn beekeeping, work with hives, and explore pollinator health.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Block and Bridle Club at Cornell University",
+    "category": "Agriculture & Animals",
+    "interests": [
+      "animals",
+      "agriculture",
+      "veterinary",
+      "outdoors"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "explore an interest",
+      "get outside"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Club for students interested in livestock, animal science, hands-on animal activities, and agriculture.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Coastal Conservation Club at Cornell",
+    "category": "Community & Service",
+    "interests": [
+      "environment",
+      "marine science",
+      "sustainability",
+      "service"
+    ],
+    "goals": [
+      "get outside",
+      "build skills",
+      "explore an interest",
+      "make friends"
+    ],
+    "club_type": {
+      "value": "service",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Organization focused on marine conservation, environmental education, fundraising, policy, and hands-on preservation activities.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Herpetological Society at Cornell",
+    "category": "Agriculture & Animals",
+    "interests": [
+      "animals",
+      "science",
+      "environment",
+      "research"
+    ],
+    "goals": [
+      "explore an interest",
+      "build skills",
+      "get outside",
+      "find a community"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Community for students interested in reptiles, amphibians, herpetological research, and conservation.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Large Animal Undergraduate Society at Cornell",
+    "category": "Agriculture & Animals",
+    "interests": [
+      "animals",
+      "healthcare",
+      "veterinary",
+      "agriculture"
+    ],
+    "goals": [
+      "explore an interest",
+      "build skills",
+      "networking",
+      "career development"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Organization for students interested in large-animal medicine, hands-on experiences, and veterinary careers.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Students for Animals in Shelters",
+    "category": "Community & Service",
+    "interests": [
+      "animals",
+      "service",
+      "community",
+      "advocacy"
+    ],
+    "goals": [
+      "make friends",
+      "build skills",
+      "leadership experience",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "service",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student organization supporting local animal shelters through fundraising, volunteering, adoption awareness, and community outreach.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "The Wildlife Society Student Chapter at Cornell University",
+    "category": "Agriculture & Animals",
+    "interests": [
+      "wildlife",
+      "animals",
+      "environment",
+      "science"
+    ],
+    "goals": [
+      "build skills",
+      "explore an interest",
+      "get outside",
+      "networking"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student chapter for students interested in wildlife science, conservation, and natural-resource careers.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Zoo, Exotics, & Wildlife Medicine at Cornell",
+    "category": "Science & Healthcare",
+    "interests": [
+      "animals",
+      "healthcare",
+      "veterinary",
+      "wildlife"
+    ],
+    "goals": [
+      "explore an interest",
+      "build skills",
+      "networking",
+      "career development"
+    ],
+    "club_type": {
+      "value": "academic",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Community for students interested in veterinary care for zoo, exotic, and wildlife species.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Absolute A Cappella",
+    "category": "Music & Performance",
+    "interests": [
+      "music",
+      "singing",
+      "performing arts"
+    ],
+    "goals": [
+      "have fun",
+      "make friends",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A cappella group performing a range of musical genres through concerts and campus performances.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Absolute Zero Break Dance Club",
+    "category": "Arts & Creative",
+    "interests": [
+      "dance",
+      "music",
+      "performing arts",
+      "sports"
+    ],
+    "goals": [
+      "have fun",
+      "make friends",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Dance community focused on breaking, funkstyles, music, performance, and building friendships.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Bhangra at Cornell",
+    "category": "Arts & Creative",
+    "interests": [
+      "dance",
+      "culture",
+      "music",
+      "performing arts"
+    ],
+    "goals": [
+      "have fun",
+      "make friends",
+      "build skills",
+      "find a community"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Dance organization celebrating bhangra, Punjabi culture, friendship, performance, and community service.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Fanclub Collective",
+    "category": "Arts & Creative",
+    "interests": [
+      "arts",
+      "culture",
+      "media",
+      "events"
+    ],
+    "goals": [
+      "make friends",
+      "have fun",
+      "explore an interest",
+      "find a community"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Arts community creating interdisciplinary events and conversations around diverse cultural and artistic perspectives.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Film Club at Cornell",
+    "category": "Arts & Creative",
+    "interests": [
+      "film",
+      "arts",
+      "media",
+      "culture"
+    ],
+    "goals": [
+      "have fun",
+      "explore an interest",
+      "make friends",
+      "build skills"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Film community hosting screenings and discussions about films from around the world; no experience required.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Juggling Club",
+    "category": "Arts & Creative",
+    "interests": [
+      "performing arts",
+      "hobbies",
+      "circus arts"
+    ],
+    "goals": [
+      "have fun",
+      "build skills",
+      "make friends",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Community for students interested in juggling and other circus arts.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Less Than Three A Cappella",
+    "category": "Music & Performance",
+    "interests": [
+      "music",
+      "singing",
+      "performing arts"
+    ],
+    "goals": [
+      "have fun",
+      "make friends",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A cappella group sharing an eclectic musical repertoire while helping members grow as singers.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Lion Dance at Cornell",
+    "category": "Arts & Creative",
+    "interests": [
+      "dance",
+      "culture",
+      "performing arts"
+    ],
+    "goals": [
+      "make friends",
+      "have fun",
+      "build skills",
+      "find a community"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student group preserving and performing the tradition of lion dance while engaging the Cornell and Ithaca communities.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Touchtones All Female A Cappella",
+    "category": "Music & Performance",
+    "interests": [
+      "music",
+      "singing",
+      "performing arts",
+      "community"
+    ],
+    "goals": [
+      "have fun",
+      "make friends",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A cappella organization focused on making music, improving musicianship, and building community.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Ukulele Club at Cornell University",
+    "category": "Music & Performance",
+    "interests": [
+      "music",
+      "ukulele",
+      "performing arts"
+    ],
+    "goals": [
+      "have fun",
+      "make friends",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "social",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Community for students who want to learn, play, and enjoy ukulele together.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "The CallbaXX a Cappella",
+    "category": "Music & Performance",
+    "interests": [
+      "music",
+      "singing",
+      "performing arts"
+    ],
+    "goals": [
+      "have fun",
+      "make friends",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "A cappella group providing musical expression, singing development, and a fun community.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Aikido Club at Cornell",
+    "category": "Sports & Recreation",
+    "interests": [
+      "martial arts",
+      "fitness",
+      "recreation"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "sports",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Club teaching and practicing the Japanese martial art of Aikido through classes and seminars.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Recreational Tennis Club",
+    "category": "Sports & Recreation",
+    "interests": [
+      "tennis",
+      "sports",
+      "fitness",
+      "recreation"
+    ],
+    "goals": [
+      "have fun",
+      "make friends",
+      "build skills",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "sports",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Noncompetitive tennis community for students who want to play, meet others, learn, and improve.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Recreational Fencing Club",
+    "category": "Sports & Recreation",
+    "interests": [
+      "fencing",
+      "sports",
+      "fitness"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "sports",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Welcoming club providing opportunities to learn and practice Olympic-style fencing.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Co-Ed Wrestling Club at Cornell",
+    "category": "Sports & Recreation",
+    "interests": [
+      "wrestling",
+      "fitness",
+      "sports"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "sports",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Club providing students with opportunities to learn and practice wrestling.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "CHINESE DRAGON SOCCER CLUB",
+    "category": "Sports & Recreation",
+    "interests": [
+      "soccer",
+      "sports",
+      "culture",
+      "recreation"
+    ],
+    "goals": [
+      "make friends",
+      "have fun",
+      "get outside",
+      "find a community"
+    ],
+    "club_type": {
+      "value": "sports",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Noncompetitive soccer club providing weekly games, training, and community for students interested in Chinese culture and soccer.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Western Equestrian Club at Cornell",
+    "category": "Sports & Recreation",
+    "interests": [
+      "equestrian",
+      "horses",
+      "sports",
+      "animals"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "sports",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Club developing Western riding and horse-handling skills while competing regionally.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Dancer's Alliance at Cornell",
+    "category": "Arts & Creative",
+    "interests": [
+      "dance",
+      "performing arts",
+      "fitness"
+    ],
+    "goals": [
+      "build skills",
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Dance community bringing together students interested in different forms of dance and performance.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Black Women's Support Network",
+    "category": "Cultural & Identity",
+    "interests": [
+      "community",
+      "culture",
+      "leadership",
+      "service"
+    ],
+    "goals": [
+      "find a community",
+      "make friends",
+      "leadership experience",
+      "build skills"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Supportive community providing social, educational, mentorship, and leadership opportunities for Black women at Cornell.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Arab Student Association",
+    "category": "International & Cultural",
+    "interests": [
+      "culture",
+      "international",
+      "community"
+    ],
+    "goals": [
+      "find a community",
+      "make friends",
+      "explore an interest",
+      "have fun"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Community organization celebrating Arab cultures and connecting students through cultural and social activities.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "Claritas: A Journal of Christian Thought",
+    "category": "Arts & Creative",
+    "interests": [
+      "writing",
+      "religion",
+      "publishing",
+      "discussion"
+    ],
+    "goals": [
+      "build skills",
+      "explore an interest",
+      "make friends",
+      "find a community"
+    ],
+    "club_type": {
+      "value": "arts",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student publication and discussion community focused on Christian thought and academic conversation.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
+  },
+  {
+    "name": "MiXed at Cornell",
+    "category": "Cultural & Identity",
+    "interests": [
+      "community",
+      "culture",
+      "identity",
+      "social"
+    ],
+    "goals": [
+      "find a community",
+      "make friends",
+      "have fun",
+      "explore an interest"
+    ],
+    "club_type": {
+      "value": "cultural",
+      "source_type": "inferred"
+    },
+    "time_commitment": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "recruitment_preference": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "experience_level": {
+      "value": null,
+      "source_type": "unknown"
+    },
+    "description": "Student community centered on identity, connection, and social activities.",
+    "recruitment": {
+      "application_required": null,
+      "coffee_chat": null,
+      "interview_required": null,
+      "rounds": null,
+      "info_session": null,
+      "application_open": null,
+      "application_deadline": null,
+      "process": []
+    },
+    "career_focus": [],
+    "source": "https://cornell.campusgroups.com/club_signup",
+    "source_type": "cornell_reported",
+    "instagram": null
   }
 ]
