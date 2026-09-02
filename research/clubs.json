@@ -184,6 +184,10 @@
       "value": "professional",
       "source_type": "club_reported"
     },
+    "club_format": {
+    "value": "project_team",
+    "source_type": "club_reported"
+},
     "time_commitment": {
       "value": null,
       "source_type": "unknown"
@@ -233,10 +237,14 @@
       "leadership experience"
     ],
     "club_type": {
-      "value": "professional",
-      "source_type": "club_reported"
-    },
-    "time_commitment": {
+    "value": "professional",
+    "source_type": "club_reported"
+},
+"club_format": {
+    "value": "project_team",
+    "source_type": "club_reported"
+},
+"time_commitment": {
       "value": null,
       "source_type": "unknown"
     },
@@ -302,6 +310,10 @@
       "value": "professional",
       "source_type": "club_reported"
     },
+    "club_format": {
+    "value": "project_team",
+    "source_type": "club_reported"
+},
     "time_commitment": {
       "value": null,
       "source_type": "unknown"

@@ -8,20 +8,97 @@ function loadClubs() {
     return JSON.parse(data);
 }
 
+function normalizePreferences(preferences) {
+    const normalized = { ...preferences };
+
+    // Club type
+    const clubTypeMap = {
+        "Professional / Career": "professional",
+        "Academic / Educational": "academic",
+        "Social / Community": "social",
+        "Cultural / Identity": "cultural",
+        "Service / Volunteer": "service",
+        "Sports / Recreation": "sports",
+        "Arts / Creative": "arts",
+        "Technical / STEM": "technical",
+        "No preference": null
+    };
+
+    if (normalized.club_type) {
+        normalized.club_type =
+            clubTypeMap[normalized.club_type] ||
+            normalized.club_type;
+    }
+
+    // Recruitment preference
+    const recruitmentMap = {
+        "Excited — I love a challenge": "competitive",
+        "Open to it — I'm willing to try": "competitive",
+        "A little nervous — I'd rather know what to expect": "open",
+        "Very nervous — I'd prefer something less competitive": "open",
+        "Not for me — I want to avoid competitive recruitment": "open",
+        "No preference — I'm open to anything": null
+    };
+
+    if (normalized.recruitment_preference) {
+        normalized.recruitment_preference =
+            recruitmentMap[normalized.recruitment_preference] ||
+            normalized.recruitment_preference;
+    }
+
+    // Experience level
+    const experienceMap = {
+        "Trying something new": "beginner",
+        "Building skills I already have": "some-experience",
+        "Applying my skills to hands-on projects": "some-experience",
+        "A mix of all three": "some-experience"
+    };
+
+    if (normalized.experience_level) {
+        normalized.experience_level =
+            experienceMap[normalized.experience_level] ||
+            normalized.experience_level;
+    }
+
+    return normalized;
+}
+
 function calculateRecommendationScore(club, preferences) {
     let score = 0;
     const reasons = [];
 
     // INTERESTS — 40%
-    const userInterests = preferences.interests || [];
-    const clubInterests = club.interests || [];
 
-    const matchingInterests = userInterests.filter(userInterest =>
+const userInterests = preferences.interests || [];
+const clubInterests = club.interests || [];
+
+const interestMap = {
+    "Business": ["business"],
+    "Data & Analytics": ["data", "analytics", "data science", "statistics", "machine learning"],
+    "Technology & Coding": ["technology", "software", "programming", "computer science", "product design", "mobile development", "algorithms"],
+    "Finance": ["finance", "investing"],
+    "Healthcare": ["healthcare", "global health"],
+    "Engineering": ["engineering"],
+    "Fashion": ["fashion"],
+    "Marketing": ["marketing"],
+    "Entrepreneurship": ["entrepreneurship"],
+    "Consulting": ["consulting"],
+    "Arts & Culture": ["arts", "culture"],
+    "Community & Service": ["community", "service"],
+    "Sports & Recreation": ["sports", "recreation"],
+    "Environment & Sustainability": ["environment", "sustainability"]
+};
+
+const matchingInterests = userInterests.filter(userInterest => {
+    const possibleMatches = interestMap[userInterest] || [userInterest];
+
+    return possibleMatches.some(possibleMatch =>
         clubInterests.some(
             clubInterest =>
-                clubInterest.toLowerCase() === userInterest.toLowerCase()
+                clubInterest.toLowerCase() === possibleMatch.toLowerCase()
         )
     );
+});
 
     if (userInterests.length > 0) {
         const interestScore =
@@ -36,16 +113,34 @@ function calculateRecommendationScore(club, preferences) {
         }
     }
 
-    // GOALS — 20%
-    const userGoals = preferences.goals || [];
-    const clubGoals = club.goals || [];
+const userGoals = preferences.goals || [];
+const clubGoals = club.goals || [];
 
-    const matchingGoals = userGoals.filter(userGoal =>
+const goalMap = {
+    "Career opportunities": ["career development"],
+    "Networking": ["networking"],
+    "Build technical skills": ["build skills"],
+    "Build professional skills": ["build skills"],
+    "Leadership opportunities": ["leadership experience"],
+    "Make friends": ["make friends"],
+    "Find a community": ["make friends"],
+    "Affinity": [],
+    "Have fun": [],
+    "Explore a new interest": ["explore an interest"],
+    "Get outside": [],
+    "Gain confidence": []
+};
+
+const matchingGoals = userGoals.filter(userGoal => {
+    const possibleMatches = goalMap[userGoal] || [userGoal];
+
+    return possibleMatches.some(possibleMatch =>
         clubGoals.some(
             clubGoal =>
-                clubGoal.toLowerCase() === userGoal.toLowerCase()
+                clubGoal.toLowerCase() === possibleMatch.toLowerCase()
         )
     );
+});
 
     if (userGoals.length > 0) {
         const goalScore =
@@ -134,11 +229,12 @@ function calculateRecommendationScore(club, preferences) {
 
 function recommendClubs(preferences, limit = 5) {
     const clubs = loadClubs();
+    const normalizedPreferences = normalizePreferences(preferences);
 
     const recommendations = clubs.map(club => {
         const result = calculateRecommendationScore(
             club,
-            preferences
+            normalizedPreferences
         );
 
         return {
